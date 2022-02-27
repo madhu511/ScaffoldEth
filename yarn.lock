@@ -8718,10 +8718,10 @@ eth-gas-reporter@^0.2.20:
     sha1 "^1.1.1"
     sync-request "^6.0.0"
 
-eth-hooks@2.3.8:
-  version "2.3.8"
-  resolved "https://registry.yarnpkg.com/eth-hooks/-/eth-hooks-2.3.8.tgz#419246a1f37efd8822813b0f7298399c16f4bba1"
-  integrity sha512-MnmW2LDaUWjdQbHoR1wEHAMu6L9vaRse2Ofs6O43Wu27tn6fZuNPAZVlYSC6D4aD9JYxKZXR7Uz/bkCczJO0pQ==
+eth-hooks@2.3.14:
+  version "2.3.14"
+  resolved "https://registry.yarnpkg.com/eth-hooks/-/eth-hooks-2.3.14.tgz#b1cc495fc36410f67b4b661b5396da4877c50410"
+  integrity sha512-TXADvpC+IwOYy3hQIoeoi8Pxf1Uodqiuz3MCjI06mJcxXrOx8a72mUmaX/XnX+DiuFGbajnlNkbtYj4dZeDa/g==
   dependencies:
     "@ethersproject/address" "^5.4.0"
     "@ethersproject/bignumber" "^5.4.0"
@@ -20889,9 +20889,9 @@ url-parse-lax@^3.0.0:
     prepend-http "^2.0.0"
 
 url-parse@^1.4.3:
-  version "1.5.3"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.3.tgz#71c1303d38fb6639ade183c2992c8cc0686df862"
-  integrity sha512-IIORyIQD9rvj0A4CLWsHkBBJuNqWpFQe224b6j9t/ABmquIS0qDU2pY6kl6AuOrL5OkCXHMCFNe1jBcuAggjvQ==
+  version "1.5.10"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.10.tgz#9d3c2f736c1d75dd3bd2be507dcc111f1e2ea9c1"
+  integrity sha512-WypcfiRhfeUP9vvF0j6rw0J3hrWrw6iZv3+22h6iRMJ/8z1Tj6XfLP4DsUix5MhMPnXpiHDoKyoZ/bdCkwBCiQ==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
